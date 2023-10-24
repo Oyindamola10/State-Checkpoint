@@ -1,0 +1,16 @@
+img{
+  width: 185px;
+  height: 180px;
+  border: 2px solid red;
+}
+
+button{
+  width: 95px;
+  height: 60px;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+button:hover{
+  background-color: blueviolet;
+}
